@@ -1,0 +1,7 @@
+Flask==2.3.2
+pandas==2.1.1
+nltk==3.8.1
+gensim==4.3.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+Werkzeug==2.3.2  
