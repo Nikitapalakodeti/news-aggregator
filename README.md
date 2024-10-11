@@ -3,12 +3,13 @@
 Project Overview
 This project is a News Aggregator that scrapes articles from various news sources (such as BBC) and serves them through a REST API built with Flask. It allows users to retrieve all articles, filter them by category, view specific articles by ID, and search articles by keywords. The articles are also saved in a CSV file for persistence.
 
-Features
-Scrapes news articles from BBC News
-REST API to retrieve and filter articles
-Search functionality for articles by keywords
-Data stored in CSV format
-Flask-based backend serving JSON responses
+Features:
+1)Scrapes news articles from BBC News
+2)REST API to retrieve and filter articles
+3)Search functionality for articles by keywords
+4)Data stored in CSV format
+5)Flask-based backend serving JSON responses
+
 Endpoints
 The REST API includes the following endpoints:
 
